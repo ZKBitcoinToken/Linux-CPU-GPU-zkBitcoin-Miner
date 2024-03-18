@@ -1,4 +1,4 @@
-# zkBitcoin-Testnet-Linux-Paymaster-Miner
+# zkBitcoin-Mainnet-Linux-Miner
 # Installing Script on Linux
 
 Go to download Folder and

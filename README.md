@@ -1,5 +1,6 @@
 # zkBitcoin-Mainnet-Linux-Miner
-# Installing Script on Ubuntu 18 & 20 please see other repsoitory for Ubuntu 22 & 24
+# Installing Script on Ubuntu 18 & 20 
+please see other repsoitory for Ubuntu 22 & 24
 
 Go to download Folder and
 run 'sh install-deps.sh' to install dependencies.
